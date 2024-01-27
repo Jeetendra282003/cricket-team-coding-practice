@@ -1,0 +1,16 @@
+GET http://localhost:3000/
+
+
+GET http://localhost:3000/players/
+
+
+GET http://localhost:3000/players/:playerId/
+
+
+POST http://localhost:3000/players/
+
+
+PUT http://localhost:3000/players/:playerId/
+
+
+GET http://localhost:3000/players/:playerId/
